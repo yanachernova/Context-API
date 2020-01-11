@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+nav{
+  font-family: 'Sniglet', cursive;
+  font-size: 28px;
+}
+
+.maintitle{
+  font-family: 'Sniglet', cursive;
+}
